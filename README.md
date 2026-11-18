@@ -3,7 +3,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3200&pause=900&color=36BCF7&center=true&vCenter=true&width=640&lines=Hola%2C+soy+Tomas+Ojeda+Stark+%F0%9F%91%8B;DevOps+Engineer+%C2%B7+Multi-cloud+GCP+%2F+Azure;Platform+%C2%B7+Kubernetes+%C2%B7+CI%2FCD+%C2%B7+IaC" alt="Tomas Ojeda Stark" />
 
 <p>
-  <a href="https://www.linkedin.com/in/tomas-ojeda-525388203"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/tomas-ojeda-stark-525388203"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://pixcima.com"><img src="https://img.shields.io/badge/pixcima.com-111827?style=for-the-badge&logo=googlechrome&logoColor=white" alt="pixcima.com" /></a>
 </p>
 
